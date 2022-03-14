@@ -13,10 +13,6 @@ This project is built with:
 - ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-## Live Demo
-
-Click [here](https://cynthiainga.github.io/math-magicians/public) to see the live demo
-
 ## Getting Started
 
 To get the content of this project locally you need to run this command in your terminal:
