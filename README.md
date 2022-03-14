@@ -15,7 +15,7 @@ This project is built with:
 
 ## Live Demo
 
-Click [here](https://cynthiainga.github.io/math-magicians/) to see the live demo
+Click [here](https://cynthiainga.github.io/math-magicians/public) to see the live demo
 
 ## Getting Started
 
