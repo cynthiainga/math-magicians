@@ -28,7 +28,7 @@ const CalcData = [
   ],
 
   [
-    { className: 'btn', name: '0' },
+    { className: 'btn btn-0', name: '0' },
     { className: 'btn', name: '.' },
     { className: 'btn bck-orange', name: '=' },
   ],
