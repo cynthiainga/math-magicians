@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.header h2 {
+  font-size: 2.3rem;
+  color: #09131a;
+  border: double red;
+  padding: 8px;
+}
