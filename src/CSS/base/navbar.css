@@ -1,0 +1,21 @@
+.navList {
+  display: flex;
+  padding-right: 2rem;
+}
+
+.navList li {
+  padding-left: 1rem;
+  list-style: none;
+  font-size: 22px;
+}
+
+.navList a {
+  text-decoration: none;
+  color: #09131a;
+}
+
+.active-style {
+  font-weight: 600;
+  color: #f17b1a;
+  border-bottom: double #f17b1a;
+}
