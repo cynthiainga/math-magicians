@@ -1,19 +1,19 @@
-import React, { Component } from 'react';
-import Calculator from './components/calculator';
+import React from 'react';
+import { HashRouter, Routes, Route } from 'react-router-dom';
+import CalculatorPage from './components/CalculatorPage';
+import Quotes from './components/Quotes';
+import Home from './components/Home';
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-    this.props = props;
-  }
-
-  render() {
-    return (
-      <div>
-        <Calculator />
-      </div>
-    );
-  }
-}
+const App = () => (
+  <main className="font">
+    <HashRouter>
+      <Routes>
+        <Route index element={<Home />} />
+        <Route path="/calculator" element={<CalculatorPage />} />
+        <Route path="quotes" element={<Quotes />} />
+      </Routes>
+    </HashRouter>
+  </main>
+);
 
 export default App;
