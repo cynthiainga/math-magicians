@@ -4,8 +4,12 @@
 
 This project has been bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![math-magicians](./src/images/math-magicians(1).png) | | ![math-magicians](./src/images/math-magicians(2).png) | |
-![math-magicians](./src/images/math-magicians(3).png)
+> |     | Home page                           | Calculator page                      |     |
+> | --- | ----------------------------------- | ------------------------------------ | --- |
+> |     | ![Screenshot1](./src/images/math-magicians(1).png) | ![Screenshot2](./src/images/math-magicians(2).png) |
+> |     |                               Quotes page                           |
+> | --- | ------------------------------------------------------------------- |
+> |     |           ![Screenshot1](./src/images/math-magicians(3).png)        |
 
 
 ## Built With
