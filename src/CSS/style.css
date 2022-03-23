@@ -1,4 +1,8 @@
 @import "base/calculator";
+@import "base/Header";
+@import "base/home";
+@import "base/navbar";
+@import "base/quotes";
 
 * {
   box-sizing: border-box;
@@ -8,7 +12,11 @@
 }
 
 body {
-  background-color: #070707;
-  color: #fff;
+  background-image: url("../images/math-bck.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #faf5f5;
+  font-weight: bold;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  height: 100%;
 }

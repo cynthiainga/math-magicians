@@ -1,35 +1,35 @@
 const CalcData = [
   [
-    { className: 'btn', name: 'AC' },
-    { className: 'btn', name: '+/-' },
-    { className: 'btn', name: '%' },
+    { className: 'btn btn-color', name: 'AC' },
+    { className: 'btn btn-color', name: '+/-' },
+    { className: 'btn btn-color', name: '%' },
     { className: 'btn bck-orange', name: '÷' },
   ],
 
   [
-    { className: 'btn', name: '7' },
-    { className: 'btn', name: '8' },
-    { className: 'btn', name: '9' },
+    { className: 'btn btn-color', name: '7' },
+    { className: 'btn btn-color', name: '8' },
+    { className: 'btn btn-color', name: '9' },
     { className: 'btn bck-orange', name: '×' },
   ],
 
   [
-    { className: 'btn', name: '4' },
-    { className: 'btn', name: '5' },
-    { className: 'btn', name: '6' },
+    { className: 'btn btn-color', name: '4' },
+    { className: 'btn btn-color', name: '5' },
+    { className: 'btn btn-color', name: '6' },
     { className: 'btn bck-orange', name: '-' },
   ],
 
   [
-    { className: 'btn', name: '1' },
-    { className: 'btn', name: '2' },
-    { className: 'btn', name: '3' },
+    { className: 'btn btn-color', name: '1' },
+    { className: 'btn btn-color', name: '2' },
+    { className: 'btn btn-color', name: '3' },
     { className: 'btn bck-orange', name: '+' },
   ],
 
   [
-    { className: 'btn btn-0', name: '0' },
-    { className: 'btn', name: '.' },
+    { className: 'btn btn-0 btn-color', name: '0' },
+    { className: 'btn btn-color', name: '.' },
     { className: 'btn bck-orange', name: '=' },
   ],
 ];

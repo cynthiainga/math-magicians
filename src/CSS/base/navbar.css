@@ -11,11 +11,11 @@
 
 .navList a {
   text-decoration: none;
-  color: #09131a;
+  color: #f0f0f0;
 }
 
 .active-style {
   font-weight: 600;
-  color: #f17b1a;
-  border-bottom: double #f17b1a;
+  color: #1bddcd;
+  border-bottom: double #29b0ee;
 }
