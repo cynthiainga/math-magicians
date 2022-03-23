@@ -8,7 +8,6 @@ This project has been bootstrapped with [Create React App](https://github.com/fa
 > | --- | ----------------------------------- | ------------------------------------ | --- |
 > |     | ![Screenshot1](./src/images/math-magicians(1).png) | ![Screenshot2](./src/images/math-magicians(2).png) |
 > |     | Quotes page                         |
-> | --- | ----------------------------------- | --- |
 > |     | ![Screenshot1](./src/images/math-magicians(3).png) |
 
 
