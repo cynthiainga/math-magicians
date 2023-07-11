@@ -20,9 +20,7 @@ This project is built with:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ## Live Demo Links
-
-> [Heroku](https://pacific-springs-68713.herokuapp.com/)
-> [Netlify](https://mathematic-magician.netlify.app)
+Comming soon
 
 ## Getting Started
 
