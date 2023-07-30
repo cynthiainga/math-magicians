@@ -20,7 +20,7 @@ This project is built with:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 ## Live Demo Links
-Comming soon
+![math-magicians](https://math-magician-3ff6.onrender.com)
 
 ## Getting Started
 
